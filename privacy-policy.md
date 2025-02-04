@@ -1,6 +1,6 @@
 # Privacy Policy for UK Petitions App
 
-_Last updated: 4 Feb 2025
+Last updated: 4 Feb 2025
 
 ## 1. Introduction
 UK Petitions ("the App") allows users to browse and track UK Government petitions. This Privacy Policy explains how data is handled in the App.
