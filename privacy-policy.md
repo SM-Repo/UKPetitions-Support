@@ -1,4 +1,4 @@
-# Privacy Policy for UK Petitions App
+# Privacy Policy for UK Petitions iOS App
 
 Last updated: 4 Feb 2025
 
@@ -6,8 +6,8 @@ Last updated: 4 Feb 2025
 UK Petitions ("the App") allows users to browse and track UK Government petitions. This Privacy Policy explains how data is handled in the App.
 
 ## 2. Data Collection & Usage
-- This app **does not collect personal data**.
-- The app **retrieves petition data from the UK Government Petitions website**.
+- The App **does not collect personal data** from users or anyone else.
+- The App **retrieves petition data from the UK Government Petitions website**.
 - No user tracking, analytics, or external data collection occurs.
 
 ## 3. Data Source
